@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background-color: beige;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+#navbar {
+    padding: 8px;
+    margin: 0px;
+    background-color: moccasin;
+}
+
+#about {
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 8px;
+}
+
+#description {
+    width: 50%;
+    padding: 8px;
+}
+
+#abtimage {
+    width: 50%;
+
+}
+
+#banner {
+    object-fit: cover;
+}
+
+#logo {
+    height: 65px;
+    width: 150px;
+}
+
+#aboutimg {
+    border-radius: 10px;
+    width: 100%;
+}
+
+#prevwork {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+}
+
+#footer {
+    background-color: moccasin;
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+}
+
+#footer-links {
+    list-style: none;
+}
+
+#footer-links li {
+    display: inline;
+    margin: 0 16px;
+}
+
+#abtpara {
+    font-size: 16px;
+}
+
+
+
+.location {
+    color: rgb(226, 177, 112);
+    margin-bottom: 12px;
+}
+
+.g-maps {
+    float: right;
+}
+
+.copyright {
+    color: rgb(201, 130, 67);
+}
+
+
+
+h1 {
+    text-align: center;
+    color: rgb(201, 130, 67);
+}
+
+h4 {
+    text-align: left;
+    color: rgb(201, 130, 67);
+}
+
+h2 {
+    color: rgb(201, 130, 67);
+    text-align: center;
+}
+
+h3 {
+    margin-bottom: 0;
+    margin-top: 0;
+    color: chocolate;
+}
+
